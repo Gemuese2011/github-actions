@@ -32,7 +32,7 @@
 
 
 ## Übung 4: Erstellen einer Dokumentation
-
+ 
 1. Fügen Sie Ihrem Repository die Java Klasse `Calculator1` aus der letzten Vorlesung hinzu. Dazu können Sie: 
 	1. Entweder Ihren Fork up-to-date bringen
 	1. Oder einen neuen Fork erstellen
